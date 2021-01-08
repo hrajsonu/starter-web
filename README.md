@@ -13,3 +13,7 @@ Deployment can be local server or any development server.
 ## How to contribute
 
 You can contribute for adding some more examples to the same.
+
+### Copyright
+
+Hrishabh Raj 2021
