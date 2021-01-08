@@ -17,4 +17,4 @@ You can fork and issue Pull Requests.
 
 ### Copyright
 
-Hrishabh Raj 2021
+Hrishabh Raj 2021. All rights reserved
