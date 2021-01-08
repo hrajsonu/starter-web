@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hrishabh Raj  hrajsonu@gmail.com
 
 # THANKS
 
